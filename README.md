@@ -18,8 +18,5 @@ Data Science & Predictive Modeling<br>Python & Data Science projects<br>Machine 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shanyusai2007-hue&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=shanyusai2007-hue&icon=9&color=4)](https://visitcount.itsvg.in)
