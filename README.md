@@ -12,9 +12,6 @@ Data Science & Predictive Modeling<br>Python & Data Science projects<br>Machine 
 ![](https://streak-stats.demolab.com/?user=shanyusai2007-hue&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=shanyusai2007-hue&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shanyusai2007-hue&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
