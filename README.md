@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Science & Predictive Modeling<br>Python & Data Science projects<br>Machine Learning & advanced predictive modeling<br>Data Science, ML & AI<br>Python, SQL, Java & Data Science<br>"FLY HIGH! LIVE LIKE ONE NEVER DID"
+Data Science, ML & AI<br>Python, SQL, Java & C++<br>"FLY HIGH! LIVE LIKE ONE NEVER DID"
 
 
 ## 🌐 Socials:
