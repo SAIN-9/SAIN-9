@@ -10,7 +10,7 @@ Data Science & Predictive Modeling<br>Python & Data Science projects<br>Machine 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=shanyusai2007-hue&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=shanyusai2007-hue&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shanyusai2007-hue&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SAIN-9&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
